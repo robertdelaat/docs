@@ -9,7 +9,7 @@ Welcome to an overview page for OCI Database with PostgreSQL
 
 
 Nice links
-
+En dan is deze dus nieuw
 ---
 
 [Product page](https://www.oracle.com/cloud/postgresql/)

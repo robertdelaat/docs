@@ -1,7 +1,9 @@
-# OCI postgreSQL, DBeaver & OCI Analytics workshop
+# OCI Analytics with OCI PostgreSQL
 
+:::Info
 
-## Connect to OCI PostgreSQL, load data using DBeaver and connect to Oracle Analytics Cloud
+In this tutorial you will connect to OCI PostgreSQL, load data using DBeaver and connect to Oracle Analytics Cloud
+:::
 
 Prerequisites
 - Create a VCN with public and private subnet

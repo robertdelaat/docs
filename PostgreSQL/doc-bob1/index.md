@@ -1,8 +1,9 @@
 # OCI Analytics with OCI PostgreSQL
 
-:::Info
+:::info
 
 In this tutorial you will connect to OCI PostgreSQL, load data using DBeaver and connect to Oracle Analytics Cloud
+
 :::
 
 Prerequisites
